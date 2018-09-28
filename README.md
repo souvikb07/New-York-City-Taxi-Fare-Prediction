@@ -1,6 +1,6 @@
 # New York City Taxi Fare Prediction  [![](https://img.shields.io/github/license/sourcerer-io/hall-of-fame.svg?colorB=ff0000)](https://github.com/souvikb07/Predict-Blood-Donations/blob/master/LICENSE)  [![](https://img.shields.io/badge/Souvik-Banerjee-blue.svg)](https://souvikb07.github.io)
 
-<img src = "https://github.com/souvikb07/souvikb07.github.io/images/new_york_taxi/cover.png">
+<img src = "https://github.com/souvikb07/souvikb07.github.io/blob/master/images/new_york_taxi/cover.png">
 
 ## Problem
 Predict new york taxi fare.
